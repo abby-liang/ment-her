@@ -1,9 +1,7 @@
 //
 //  ViewController.swift
 //  ment-her
-//
 //  Created by abby on 1/30/21.
-//
 
 import UIKit
 

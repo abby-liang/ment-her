@@ -63,8 +63,10 @@
                 <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="UoZ-Iv-hSz" sceneMemberID="viewController">
                     <toolbarItems/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="VgO-b6-WBa">
+                        <rect key="frame" x="0.0" y="0.0" width="1000" height="1000"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <color key="selectedImageTintColor" red="0.63877885950000002" green="0.46589131369999998" blue="0.88703600890000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </tabBar>
                     <connections>
                         <segue destination="X1b-KT-aS1" kind="relationship" relationship="viewControllers" id="yjE-Ya-SSz"/>
