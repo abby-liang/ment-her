@@ -1,6 +1,5 @@
 # Welcome to ment-her!
-This GitHub repo contains the code to the base of our iOS Swift app. Our project is mainly UI/UX Design, in which the prototype can be found [here](https://www.figma.com/proto/W0QHFMAIbS7CdnQD2wwAPi/Ment-Her?node-id=4%3A39&scaling=scale-down). 
-Please try our prototyped and designed mobile app, as there are many functionalities that include scrolling, menu, chat, and interaction features.
+This GitHub repo contains the code to the base of our iOS Swift app. Our project is mainly UI/UX Design, in which the prototype can be found [here](https://www.figma.com/proto/W0QHFMAIbS7CdnQD2wwAPi/Ment-Her?node-id=4%3A39&scaling=scale-down). This was the focus of our hack, so please [try our prototyped and designed mobile app](https://www.figma.com/proto/W0QHFMAIbS7CdnQD2wwAPi/Ment-Her?node-id=4%3A39&scaling=scale-down), as there are many functionalities that include scrolling, menu, chat, and interaction features - which have not been incorporated into Swift yet.
 
 ## Inspiration
 Empowering women and girls and achieving gender equality are crucial to creating inclusive, open and prosperous societies. Gender inequalities, however, persist in many countries so it is important that we find new ways of addressing this issue. 
