@@ -1,0 +1,6 @@
+module Pods_ment_her {
+  umbrella header "Pods-ment-her-umbrella.h"
+
+  export *
+  module * { export * }
+}
