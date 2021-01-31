@@ -1,6 +1,12 @@
 # Welcome to ment-her!
 This GitHub repo contains the code to the base of our iOS Swift app. Our project is mainly UI/UX Design, in which the prototype can be found [here](https://www.figma.com/proto/W0QHFMAIbS7CdnQD2wwAPi/Ment-Her?node-id=4%3A39&scaling=scale-down). This was the focus of our hack, so please [try our prototyped and designed mobile app](https://www.figma.com/proto/W0QHFMAIbS7CdnQD2wwAPi/Ment-Her?node-id=4%3A39&scaling=scale-down), as there are many functionalities that include scrolling, menu, chat, and interaction features - which have not been incorporated into Swift yet.
 
+📄 [Devpost](https://devpost.com/software/ment-her-e6cfa5) | 🎥 [Demo Video](https://youtu.be/goMwEGe0ip4)
+
+**Built With:**
+- Figma: Uses components, interactions, prototype features, horizontal/vertical scrolling, and more. (Try out the prototype!)
+- Swift: Uses XCode’s UIKit and Cocoapods MessageKit
+
 ## Inspiration
 Empowering women and girls and achieving gender equality are crucial to creating inclusive, open and prosperous societies. Gender inequalities, however, persist in many countries so it is important that we find new ways of addressing this issue. 
 
@@ -11,22 +17,7 @@ We also created a section in the app called "take a break" in order to promote s
 In this sense, we developed Ment-Her, a safe space with mentors, self-care activities and a forum where women can talk about discrimination and participate in public discourse.
  
 ## What it does
-Ment-Her provides a safe and comfortable environment for women to find mentors and practice self-care at the same time. The app matches women with a mentor to guide them through anything they might have. It can range from challenges during high school to even hobbies. If the user does not want to talk, they can also head over to the activities section to find a range of activities or workshops to work on. Women on the app can even talk to other users using the forum. 
-
-Sections include:
-* Registration & Login
-    - Registration process to match users to mentors
-    - Mentor search
-* Chat
-    - Chat with potential mentors: status turns from yellow to red or green once the mentor accepts or rejects the mentee’s request for mentorship
-    - Chat with others from forum, workshops, etc. 
-* Home Page
-   - Find a Mentor 
-   - Take a Break (also activities): current categories include art, food, misc, and sports with 4-7 subcategories in each. Scroll through the find one you enjoy, or view all (at bottom). 
-   - Forum: Topics for female empowerment, such as #Coding, #FemaleEmpowerment, #SelfCare, #Colleges, and #Baking
-* Calendar
-    - View calendar for workshops, speakers, etc. 
-* Profile
+Ment-Her provides a safe and comfortable environment for women to find mentors and practice self-care at the same time. The app matches women with a mentor to guide them through anything they might have. It can range from challenges during high school to even hobbies. If the user does not want to talk, they can also head over to the activities section to find a range of activities or workshops to work on. Women on the app can even talk to other users using the forum. Sections include profile, activities, forum, chat, mentor search, and calendar.
 
 ## How we built it
 We built a fully-fledged high-fidelity prototype with Figma. This hi-fi prototype includes interactions, scrolling, frames, etc., following a certain user experience roadmap. The horizontal and vertical scrolling features are also activated, in which if you are on the “Take a Break” section, you can swipe left and right to view the subsections of each category as well as swipe all the way down to “View All”. 
@@ -48,7 +39,3 @@ We learned more about the functionalities of Figma; examples include sticky menu
 - Implementing Flutter and Machine Learning algorithms to match mentor and mentees recommending the user to mentors near them
 - Using Firebase to create a database of mentors and mentees
 - Developing a computer web app along with it
-
-## Built With
-- Figma: Uses components, interactions, prototype features, horizontal/vertical scrolling, and more. (Try out the prototype!)
-- Swift: Uses XCode’s UIKit and Cocoapods MessageKit
