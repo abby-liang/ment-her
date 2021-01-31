@@ -4,7 +4,7 @@ This GitHub repo contains the code to the base of our iOS Swift app. Our project
 📄 [Devpost](https://devpost.com/software/ment-her-e6cfa5) | 🎥 [Demo Video](https://youtu.be/goMwEGe0ip4)
 
 **Built With:**
-- Figma: Uses components, interactions, prototype features, horizontal/vertical scrolling, and more. (Try out the prototype!)
+- Figma: Uses components, interactions, prototype features, horizontal/vertical scrolling, and more.
 - Swift: Uses XCode’s UIKit and Cocoapods MessageKit
 
 ## Inspiration
